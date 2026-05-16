@@ -1,0 +1,16 @@
+{
+  "name": "icp-local-ii-signed-query-repro",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@icp-sdk/auth": "^5.0.0",
+    "@icp-sdk/core": "^5.0.0"
+  },
+  "devDependencies": {
+    "vite": "^7.3.2"
+  }
+}
